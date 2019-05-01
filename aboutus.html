@@ -23,12 +23,18 @@ permalink: /aboutus/
      <p>Love to make things.</p>
  </div>
 
-{% for post in site.posts %}
-<div class="post-area">
-  <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
-  <p class="post-date">{{ post.date | date_to_long_string }}</p>
-  <p>
-    {{ post.content | strip_html | truncatewords: 50 }}
-  </p>
-</div>
-{% endfor %}
+<div>
+     <img class="display" src="img/founders/aditya.jpg" width="250px" height="250px">
+     <h1>Aditya Singh</h1>
+     <p>Love to make things.</p>
+ </div>
+ <div>
+     <img class="display" src="img/founders/anjlai.jpeg" width="250px" height="250px">
+     <h1>Anjali Kumari</h1>
+     <p>Love to make things.</p>
+ </div>
+ <div>
+     <img class="display" src="img/founders/Deeksha.jpeg" width="250px" height="250px">
+     <h1>Deeksha Diwakar</h1>
+     <p>Love to make things.</p>
+ </div>

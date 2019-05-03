@@ -16,12 +16,76 @@ permalink: /aboutus/
     </div>
   </div>
 </section>
-{% for post in site.posts %}
-<div class="post-area">
-  <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
-  <p class="post-date">{{ post.date | date_to_long_string }}</p>
-  <p>
-    {{ post.content | strip_html | truncatewords: 50 }}
-  </p>
-</div>
-{% endfor %}
+<section id = "portfolio-work">
+     <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+              <div class="portfolio-contant">
+                <ul id="portfolio-contant-active">
+                    <li class="mix Branding">
+                      <a href="#">
+                        <img src="{{ site.baseurl }}/img/founders/aditya.jpg" alt="" height="250px" width="250px">
+                        <div class="overly">
+                          <div class="position-center">
+                            <h2>Aditya Singh</h2>
+                            <p>Labore et dolore magna aliqua. Ut enim ad </p>
+
+                          </div>
+                        </div>
+                      </a>
+                  </li>
+                  <li class="mix Websites">
+                    <a href="#">
+                      <img src="{{ site.baseurl }}/img/founders/anjali.jpeg" alt="" height="250px" width="250px">
+                      <div class="overly">
+                        <div class="position-center">
+                          <h2>Anjali Kumari</h2>
+                          <p>Labore et dolore magna aliqua. Ut enim ad </p>
+
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="mix Graphic">
+                    <a href="anuragsahu.github.io">
+                      <img src="{{ site.baseurl }}/img/founders/anurag_1.jpg" alt="" height="250px" width="250px">
+                      <div class="overly">
+                        <div class="position-center">
+                          <h2>Anurag Sahu</h2>
+                          <p>Labore et dolore magna aliqua. Ut enim ad </p>
+
+                        </div>
+                      </div>
+
+                    </a>
+                  </li>
+                  <li class="mix design">
+                    <a href="#">
+                      <img src="{{ site.baseurl }}/img/founders/Deeksha.jpeg" alt="" height="250px" width="250px">
+                      <div class="overly">
+                        <div class="position-center">
+                          <h2>Deeksha Diwakar</h2>
+                          <p>Labore et dolore magna aliqua. Ut enim ad </p>
+
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="mix Video">
+                    <a href="#">
+                      <img src="{{ site.baseurl }}/img/founders/raja" alt="" height="250px" width="250px">
+                      <div class="overly">
+                        <div class="position-center">
+                          <h2>Raja Sharad Dongre</h2>
+                          <p>Labore et dolore magna aliqua. Ut enim ad </p>
+
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+          </div>
+        </div>
+    </div>
+</section>

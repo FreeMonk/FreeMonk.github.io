@@ -1,16 +1,28 @@
-- name: Rose Ray
-  title: CEO-Themefisher
+- name: Anurag Sahu
+  title: Student IIIT Hyderabad
   testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
-  testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
-  testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
-  image: img/item-img1.jpg
+  image: img/testimonisal_people/anurag.jpg
+
+- name: TK Paul
+  title: Director TAC Raipur
+  testimonial: "An Portfolio Website was created by this company with the help to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
+  image: img/testimonisal_people/paul_sir.jpg
+
+
+- name: TK Paul
+  title: Director TAC Raipur
+  testimonial: "An Portfolio Website was created by this company with the help to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
+  image: img/testimonisal_people/paul_sir.jpg
+
+
+- name: TK Paul
+  title: Director TAC Raipur
+  testimonial: "An Portfolio Website was created by this company with the help to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
+  image: img/testimonisal_people/paul_sir.jpg
+
+
+- name: TK Paul
+  title: Director TAC Raipur
+  testimonial: "An Portfolio Website was created by this company with the help to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
+  image: img/testimonisal_people/paul_sir.jpg
+
